@@ -10,7 +10,7 @@ Technology Used:
 3. Keras
 4. NLTK (NLP)
 
-Project File Structure
+Project File Structure:
 After the project is complete, you will be left with all these files. Lets quickly go through each of them. It will give you an idea of how the project will be implemented.
 
 1. Train_chatbot.py — In this file, we will build and train the deep learning model that can classify and identify what the user is asking to the bot.
