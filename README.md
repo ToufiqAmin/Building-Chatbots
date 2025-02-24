@@ -20,7 +20,7 @@ After the project is complete, you will be left with all these files. Lets quick
 5. Classes.pkl — The pickle file can be used to store all the tag names to classify when we are predicting the message.
 6. Words.pkl — The words.pkl pickle file contains all the unique words that are the vocabulary of our model.
 
-Running the Chatbot
+Running the Chatbot:
 we have two separate files, one is the train_chatbot.py, which we will use first to train the model.
 python train_chatbot.py
 
